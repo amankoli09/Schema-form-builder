@@ -12,7 +12,13 @@
     <a href="https://github.com/amankoli09/Schema-form-builder/issues">Report Bug</a>
     ·
     <a href="https://github.com/amankoli09/Schema-form-builder/issues">Request Feature</a>
-  </p>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
