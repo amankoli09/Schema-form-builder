@@ -109,6 +109,8 @@ The codebase is highly modular, separating the user interface from the math/logi
 - **`src/components/`**: The visual UI elements (Canvas, Sidebar, Inspector).
 
 ---
+## Live Demo : 
+https://schema-form-builder-seven.vercel.app/
 
 ## 🤝 Contributing
 
