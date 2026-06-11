@@ -15,8 +15,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/amankoli09/Schema-form-builder/total) ![Contributors](https://img.shields.io/github/contributors/amankoli09/Schema-form-builder?color=dark-green) ![Issues](https://img.shields.io/github/issues/amankoli09/Schema-form-builder) ![License](https://img.shields.io/github/license/amankoli09/Schema-form-builder)
-
 ---
 
 ## 📝 About The Project
